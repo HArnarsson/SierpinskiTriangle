@@ -11,3 +11,6 @@ The algorithm:
 3 Draw a point halfway between the most recently drawn point and the vertex selected
 4 Go to 2
 ```
+Important note, SFML needed to run the program, check video link if interested.
+
+Makefile may not work due to differing file structures when importing SFML
